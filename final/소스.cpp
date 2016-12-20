@@ -239,7 +239,7 @@ void RenderScene(void)
 		glRotatef(90, 1, 0, 0);
 		glRotatef(ang, 0, 1, 0);
 		glColor4f(1, 0, 0, 0.8);
-
+		//test
 		glutSolidTorus(0.3, 0.6, 10, 50);
 		glTranslatef
 	}glPopMatrix();
